@@ -1,3 +1,12 @@
+# GPT3
+A modern responsive React landing page created using React.JS.
+
+Application live link : https://gpt3landingpagedemo.netlify.app/
+
+![alt text](https://github.com/RaHuL-J31/GPT3_Modern_Website/blob/master/src/assets/GPT3Desktop.jpeg)
+## Mobile View
+![alt text](https://github.com/RaHuL-J31/GPT3_Modern_Website/blob/master/src/assets/GPT3Mobile.jpeg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
